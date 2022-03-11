@@ -1,6 +1,6 @@
 [![Dreamkas](http://static.dreamkas.ru/git_logo.png)](https://dreamkas.ru)
 
-# Backend-разработчик (Node.js)
+# Fullstack-разработчик (Node.js)
 
 Присоединяйтесь к “Дримкас”, и у вас появится возможность прокачать навыки работы с новыми технологиями!
 
